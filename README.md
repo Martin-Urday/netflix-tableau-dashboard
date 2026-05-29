@@ -162,7 +162,7 @@ netflix-tableau-dashboard/
 | Proyecto | Herramienta | Descripción |
 |---|---|---|
 | [RRHH Dashboard](#) | Power BI | Análisis de recursos humanos y rotación de personal |
-| [Préstamos Crediticios](#) | Power BI / Python | Modelo de riesgo crediticio y análisis de mora |
+| [Préstamos Crediticios](#) | Excel / Python | Modelo de riesgo crediticio y análisis de mora |
 | **Netflix Content Analysis** | Tableau | Análisis del catálogo global de Netflix ← *este proyecto* |
 
 ---
