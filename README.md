@@ -14,14 +14,6 @@ Dashboard interactivo desarrollado en **Tableau Public** para explorar y analiza
 > 🔗 **[[Ver dashboard en Tableau Public](https://public.tableau.com/app/profile/martin.jesus.villon.urday/viz/Libro1_17799839641480/Dashboard1?publish=yes)]
 ---
 
-## 🖼️ Vista previa
-
-| Dashboard Principal | Dinámicas Temporales |
-|---|---|
-| ![Dashboard 1]( | ![Dashboard 2]() |
-
----
-
 ## 📊 Métricas Clave
 
 | Indicador | Valor |
