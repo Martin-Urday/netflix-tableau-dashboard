@@ -18,7 +18,7 @@ Dashboard interactivo desarrollado en **Tableau Public** para explorar y analiza
 
 | Dashboard Principal | Dinámicas Temporales |
 |---|---|
-| ![Dashboard 1](assets/dashboard_01.png) | ![Dashboard 2](assets/dashboard_02.png) |
+| ![Dashboard 1]( | ![Dashboard 2]() |
 
 ---
 
