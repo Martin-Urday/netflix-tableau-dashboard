@@ -154,8 +154,7 @@ netflix-tableau-dashboard/
 
 **[Martin Jesus Villon Urday]**
 📧 [Urdaymartin27@gmail.com]
-🔗 [LinkedIn](www.linkedin.com/in/martin-villon-urday) · [Tableau Public]([#](https://public.tableau.com/app/profile/martin.jesus.villon.urday/viz/Libro1_17799839641480/Dashboard1?publish=yes)) · [Portfolio en Notion]([#](https://app.notion.com/p/Portafolio-de-An-lisis-de-Datos-Mart-n-Vill-n-362987249e5280e98159f38d7f3c54d7?source=copy_link))
-
+🔗 [LinkedIn](www.linkedin.com/in/martin-villon-urday) · [Tableau Public]([(https://public.tableau.com/app/profile/martin.jesus.villon.urday/viz/Libro1_17799839641480/Dashboard1?publish=yes)] · [Portfolio en Notion]([[#](https://app.notion.com/p/Portafolio-de-An-lisis-de-Datos-Mart-n-Vill-n-362987249e5280e98159f38d7f3c54d7?source=copy_link)]
 ---
 
 ## 📂 Otros proyectos del portafolio
